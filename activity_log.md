@@ -12,3 +12,4 @@
 - [2026-04-23T19:20:04Z] fix: resolve edge case in input validation
 - [2026-04-23T19:54:48Z] refactor: clean up unused imports
 - [2026-04-23T13:36:36Z] docs: update README with usage examples
+- [2026-04-23T12:28:08Z] test: add unit tests for core module
